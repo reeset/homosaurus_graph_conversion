@@ -1,7 +1,0 @@
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\bin\Debug\homosaurus_console_example.exe.config
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\bin\Debug\homosaurus_console_example.exe
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\bin\Debug\homosaurus_console_example.pdb
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\obj\Debug\homosaurus_console_example.csprojAssemblyReference.cache
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\obj\Debug\homosaurus_console_example.csproj.CoreCompileInputs.cache
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\obj\Debug\homosaurus_console_example.exe
-C:\Users\reese\source\repos\homosaurus_console_example\homosaurus_console_example\obj\Debug\homosaurus_console_example.pdb
